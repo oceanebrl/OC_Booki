@@ -6,7 +6,7 @@
 
 ## Scénario
 
-![Booki](./assets_description/main_img)
+![Booki](./assets_description/main_img.png)
 
 Une entreprise souhaite développer un site permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Ici, on doit se charger d'intégrer l'interface, grâce à des  maquettes. Le site est entièrement  responsive.
 
